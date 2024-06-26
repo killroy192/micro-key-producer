@@ -3,7 +3,3 @@ node_modules
 /*.js
 /*.d.ts
 /*.map
-/esm/*.js*
-/esm/*.ts*
-/cjs
-/types
